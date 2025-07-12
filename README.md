@@ -15,8 +15,8 @@
 - 🌱 Learning **TypeScript**, **Framer Motion**, and **Performance Optimization**
 - 🧠 Passionate about **UI/UX**, **animations**, and **clean component architecture**
 - 💬 Ask me about **Frontend Development, API Integration, State Management**
-- 📫 Reach me at: **prashant@example.com** *(replace with your real email)*
-- 🌐 Visit my portfolio: [prashantdubey.dev](https://yourportfolio.com) *(update your actual site)*
+- 📫 Reach me at: **prashant@enlightner.xyz**
+- 🌐 Visit my portfolio: [enlightner.xyz]([https://yourportfolio.com](https://www.enlightner.xyz/)) 
 
 ---
 
@@ -71,7 +71,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/prashantdubey" target="_blank">
+  <a href="https://linkedin.com/in/prashantdubeyy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prashant@example.com">
