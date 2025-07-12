@@ -16,7 +16,7 @@
 - 🧠 Passionate about **UI/UX**, **animations**, and **clean component architecture**
 - 💬 Ask me about **Frontend Development, API Integration, State Management**
 - 📫 Reach me at: **prashant@enlightner.xyz**
-- 🌐 Visit my portfolio: [enlightner.xyz]([https://yourportfolio.com](https://www.enlightner.xyz/)) 
+- 🌐 Visit my portfolio: [enlightner.xyz][https://www.enlightner.xyz/]
 
 ---
 
