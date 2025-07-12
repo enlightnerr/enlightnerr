@@ -62,22 +62,16 @@
 
 ---
 
-### 🚀 Featured Projects
-
-[![Refermate](https://github-readme-stats.vercel.app/api/pin/?username=prashantdubey&repo=refermate&theme=tokyonight)](https://github.com/prashantdubey/refermate)
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/prashantdubeyy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prashant@example.com">
+  <a href="mailto:prashant@enlightner.xyz">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://www.enlightner.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
