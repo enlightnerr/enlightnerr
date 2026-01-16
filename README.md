@@ -14,9 +14,9 @@
 - 🔭 I’m currently working on **React, Next.js, Tailwind CSS projects**
 - 🌱 Learning **TypeScript**, **Framer Motion**, and **Performance Optimization**
 - 🧠 Passionate about **UI/UX**, **animations**, and **clean component architecture**
-- 💬 Ask me about **Frontend Development, API Integration, State Management**
-- 📫 Reach me at: **prashant@enlightner.xyz**
-- 🌐 Visit my portfolio: **enlightner** - [https://www.enlightner.xyz/]
+- 💬 Ask me about **Product Management, Frontend Development, API Integration, State Management**
+- 📫 Reach me at: **prashant@pdworks.pro**
+- 🌐 Visit my portfolio: **pdworks** - [https://www.pdworks.pro/]
 
 ---
 
